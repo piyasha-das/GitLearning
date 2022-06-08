@@ -1,3 +1,4 @@
 this is version1 of my project.
 I want to go to commit2.
 new
+after creating git repository
