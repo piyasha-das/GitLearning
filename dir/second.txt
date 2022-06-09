@@ -1,5 +1,0 @@
-this is to check gitignore.
-hi
-world
-hello
-last

@@ -1,2 +1,0 @@
-this file is under dir folder.
-changing some content.
